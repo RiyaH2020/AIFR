@@ -14,7 +14,7 @@ This project explores **age-invariant face recognition (AIFR)**, which aims to r
 ##  Publication  
 Published in the **Springer Conference Series**.  
 - Title: *Age-Invariant Face Recognition using Transfer Learning*  
-- Link: DOI link  
+- Link: [DOI Link](https://link.springer.com/chapter/10.1007/978-981-97-4727-6_33)
 
 
 ##  Key Insight  
